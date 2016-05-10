@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[vinnaturel]]></title>
         <description><![CDATA[vinnaturel]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vinnaturel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 16:57:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 10 May 2016 18:26:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vinnaturel/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a137ee6a-73b5-466d-938a-24bacf1f8f21.jpg">]]></description>
+            <link>https://thegrid.ai/vinnaturel/hardcore-pure-lightness/index.html</link>
+            <guid isPermaLink="false">b81a3306-7992-43ae-8499-701749ca806e</guid>
+            <pubDate>Tue, 10 May 2016 18:26:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fed4a6c-f2d8-4ac3-babb-54a4dbaddbb6.jpg">]]></description>
-            <link>undefinedgefermenteerd-druivensap/index.html</link>
+            <link>https://thegrid.ai/vinnaturel/gefermenteerd-druivensap/index.html</link>
             <guid isPermaLink="false">5f0a5791-cde5-487e-b757-7107e3e2c73e</guid>
             <pubDate>Tue, 10 May 2016 16:57:16 GMT</pubDate>
         </item>
