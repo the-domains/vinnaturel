@@ -1,4 +1,5 @@
-layout_spectrum: 0
+favicon: null
+name: vinnaturel
 opengraph:
   image: null
   type: null
@@ -17,24 +18,23 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.9190556
+  saturation: 0.4329574
   brandStrength: 0.5
-  lightness: 0.6854975
+  lightness: 0.4448622
   brandColors:
     - '#030303'
     - '#fdfff4'
     - '#af0000'
     - '#00646b'
     - '#7aae80'
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.4216792
 typography_spectrum: 0.3273816392756999
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: vinnaturel
+cta:
+  bucket: null
+  version: null
+  domain: null
