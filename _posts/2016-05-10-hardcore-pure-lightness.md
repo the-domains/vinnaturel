@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Hardcore Pure lightness
-datePublished: '2016-05-10T18:26:01.553Z'
-dateModified: '2016-05-10T18:24:48.991Z'
+datePublished: '2016-05-10T18:27:45.664Z'
+dateModified: '2016-05-10T18:26:07.442Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-10-hardcore-pure-lightness.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-10-hardcore-pure-lightness.md
 url: hardcore-pure-lightness/index.html
 _type: Article
 
