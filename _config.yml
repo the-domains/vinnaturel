@@ -1,28 +1,40 @@
-name: vinnaturel
 favicon: null
-layout_spectrum: 0.99583
-typography_spectrum: 0.32738163927569985
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: vinnaturel
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.9190556
+  brandStrength: 0.5
+  lightness: 0.6854975
   brandColors:
     - '#030303'
     - '#fdfff4'
     - '#af0000'
     - '#00646b'
     - '#7aae80'
-  brandStrength: 0.5
-  lightness: 0.5015960785094649
-  saturation: 0.7853253113571554
   rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.3273816392756999
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.99583
+analytics:
+  twitter: null
+  google: null
+  facebook: null
