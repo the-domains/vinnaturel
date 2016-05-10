@@ -1,0 +1,28 @@
+name: vinnaturel
+favicon: null
+layout_spectrum: 0.06086430652067065
+typography_spectrum: 0.32738163927569985
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6298187987413257
+  lightness: 0.5015960785094649
+  saturation: 0.7853253113571554
+  rhythmicContrast: 0.5314523291308433
+purpose: []
