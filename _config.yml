@@ -1,7 +1,7 @@
 name: vinnaturel
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.3273816392756999
+typography_spectrum: 0
 collections:
   - index:
       path: /
